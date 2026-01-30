@@ -1,4 +1,5 @@
 import Link from "next/link";
+import MakerFooter from "./maker-footer";
 
 export default function Footer() {
   return (
@@ -133,6 +134,9 @@ export default function Footer() {
             </p>
           </div>
         </div>
+
+        {/* Maker Footer - Cross-links to other projects */}
+        <MakerFooter />
       </div>
     </footer>
   );
