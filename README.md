@@ -10,7 +10,7 @@ Turn any website into a beautiful image using modern AI. Open‑source and self�
 - **NextAuth + Resend**: Passwordless email sign‑in
 - **Upstash Redis**: Auth adapter + rate limiting
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcodeme-ne%2Fimagine&env=FIRECRAWL_API_KEY,GEMINI_API_KEY,FAL_KEY,UPSTASH_REDIS_REST_URL,UPSTASH_REDIS_REST_TOKEN,AUTH_RESEND_KEY,EMAIL_FROM,STRIPE_SECRET_KEY,STRIPE_WEBHOOK_SECRET,STRIPE_PRICE_STARTER,STRIPE_PRICE_CREATOR,STRIPE_PRICE_PRO&envDescription=API%20keys%20required%20to%20run%20this%20application)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcodeme-ne%2FGemini-Image-und-Prompt&env=FIRECRAWL_API_KEY,GEMINI_API_KEY,FAL_KEY,UPSTASH_REDIS_REST_URL,UPSTASH_REDIS_REST_TOKEN,AUTH_RESEND_KEY,EMAIL_FROM,STRIPE_SECRET_KEY,STRIPE_WEBHOOK_SECRET,STRIPE_PRICE_STARTER,STRIPE_PRICE_CREATOR,STRIPE_PRICE_PRO&envDescription=API%20keys%20required%20to%20run%20this%20application)
 
 ## Setup
 
@@ -87,7 +87,7 @@ The app ships with several preset style prompts (click “View Prompt” in Step
 
 ## Open Source
 
-This project is open‑source: https://github.com/codeme-ne/imagine
+This project is open-source: https://github.com/codeme-ne/Gemini-Image-und-Prompt
 
 ## License
 
